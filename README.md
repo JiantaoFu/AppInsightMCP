@@ -4,6 +4,10 @@
 
 An MCP server that provides comprehensive market intelligence by analyzing data from both the Apple App Store and Google Play Store. Get insights about apps, market trends, competitors, and user feedback across the major mobile app marketplaces.
 
+<a href="https://glama.ai/mcp/servers/@JiantaoFu/AppInsightMCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@JiantaoFu/AppInsightMCP/badge" alt="App Market Intelligence MCP server" />
+</a>
+
 ## API Coverage
 
 ### App Store API Coverage
