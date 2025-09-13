@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jiantaofu-appinsightmcp-badge.png)](https://mseep.ai/app/jiantaofu-appinsightmcp)
+
 # App Market Intelligence MCP
 
 [![smithery badge](https://smithery.ai/badge/@JiantaoFu/appinsightmcp)](https://smithery.ai/server/@JiantaoFu/appinsightmcp)
