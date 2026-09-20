@@ -14,9 +14,7 @@
     "start": "node src/server.js",
     "dev": "node --watch src/server.js",
     "test:inspector": "npx @modelcontextprotocol/inspector node src/server.js",
-    "test:claude": "node src/server.js",
-    "build": "chmod +x src/server.js",
-    "prepare": "npm run build"
+    "test:claude": "node src/server.js"
   },
   "keywords": [
     "mcp",
