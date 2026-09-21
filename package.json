@@ -29,7 +29,8 @@
     "@modelcontextprotocol/sdk": "^1.6.1",
     "@jeromyfu/app-store-scraper": "^0.18.0",
     "@jeromyfu/google-play-scraper": "^10.0.1",
-    "punycode": "^2.3.1"
+    "punycode": "^2.3.1",
+    "zod": "^3.25.76"
   },
   "devDependencies": {
     "chai": "^5.2.0",
